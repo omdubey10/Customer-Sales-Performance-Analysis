@@ -1,0 +1,9 @@
+product_id,product_name,category,unit_price
+P001,Laptop,Technology,65000
+P002,Monitor,Technology,18000
+P003,Office Chair,Furniture,12000
+P004,Desk,Furniture,15000
+P005,Headphones,Technology,3500
+P006,Keyboard,Technology,2200
+P007,Printer,Technology,14000
+P008,Notebook,Office Supplies,450

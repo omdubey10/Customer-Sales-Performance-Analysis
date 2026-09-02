@@ -1,0 +1,11 @@
+customer_id,customer_name,segment,city
+C001,Aarav Sharma,Consumer,Bengaluru
+C002,Diya Patel,Corporate,Mumbai
+C003,Rohan Verma,Consumer,Delhi
+C004,Ananya Singh,Home Office,Pune
+C005,Vivaan Gupta,Corporate,Hyderabad
+C006,Ishita Jain,Consumer,Chennai
+C007,Aditya Rao,Corporate,Kolkata
+C008,Meera Joshi,Home Office,Jaipur
+C009,Kabir Khan,Consumer,Ahmedabad
+C010,Saanvi Mehta,Corporate,Bengaluru
